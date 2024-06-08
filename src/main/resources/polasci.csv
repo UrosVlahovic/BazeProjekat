@@ -1,0 +1,4 @@
+id, vozilo, datum, sediste, id_korisnika, id_karte
+1, Shuttle, 2024-06-01, A1, 1, 1
+2, Rocket, 2024-07-15, B2, 2, 2
+3, Capsule, 2024-08-30, C3, 3, 3
